@@ -2,8 +2,6 @@
 
 	Action()
 {
-		// this is a modified script for url
-		
 		web_custom_request("web_custom_request",
 		"URL=https://www.example.com",
 		"Method=GET",
